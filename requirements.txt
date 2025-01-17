@@ -1,0 +1,4 @@
+itemadapter==0.9.0
+Scrapy==2.11.2
+scrapy-zyte-api==0.4.1
+scrapy-poet
